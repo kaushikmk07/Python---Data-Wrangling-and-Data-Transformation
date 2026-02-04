@@ -3,9 +3,11 @@
 Developed in: Jupyter Notebook | Stack: Pandas, NumPy | Framework: ETL & Business Logic Automation
 
 📌 Project Overview
+
 This project involves an end-to-end data pipeline to process corporate project and employee data. The primary objective was to take raw, disconnected datasets and apply complex business rules for financial bonuses and HR performance tracking.
 
 🛠️ Key Technical Implementations
+
 Based on the project requirements, I implemented several advanced data handling techniques in a Jupyter Notebook environment:
 
 
